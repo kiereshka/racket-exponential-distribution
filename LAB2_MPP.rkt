@@ -55,7 +55,7 @@
   
   (list xValues yValues))
 
-(define o 1) ; Example coefficient o
+(define o 1)
 
 (displayln "Exponential distribution")
 (define points (exponentialDistribution o (+ alphabet-power 1)))
